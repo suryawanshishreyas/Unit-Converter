@@ -126,7 +126,7 @@ input::-webkit-inner-spin-button {
 
 }
 
-#unit-value{
+#unit-value-mtr,#unit-value-ltr,#unit-value-kilo{
     text-align: center;
     font-family: "Inter",sans-serif;
     font-weight: 400;
